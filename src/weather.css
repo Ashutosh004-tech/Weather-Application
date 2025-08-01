@@ -1,0 +1,9 @@
+.webappInfo{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.searchBox{
+    display: flex;
+    justify-content: center;
+}
